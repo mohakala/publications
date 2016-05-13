@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=latex 2015.2.11)  13 MAY 2016 18:04
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=latex 2015.2.11)  13 MAY 2016 18:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -162,7 +162,7 @@ Missing character: There is no ¤ in font cmr12!
 Missing character: There is no Ã in font cmr12!
 Missing character: There is no ¼ in font cmr12!
  [6] [7]
-Overfull \hbox (4.4288pt too wide) in paragraph at lines 600--602
+Overfull \hbox (4.4288pt too wide) in paragraph at lines 598--600
 \OT1/cmr/m/n/12 7th In-ter-na-tional Dis-cus-sion Meet-ing on Re-lax-ations in 
 Com-plex Sys-tems, 21.-26.7.2013,
  []
