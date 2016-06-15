@@ -12,6 +12,7 @@
 
 # Kandidaatin tutkielma
 - T. Vuoriheimo: Funktionaaliset monikerroskiderakenteet (2015)
+- D. Veira Canle: Study of the physical properties of materials based on perovskites and possible applications in solar cell technology (2014, kandityötä vastaava erikoistyö)
 - J. Koskelo: Amorfiset puolijohteet (2011)
 - I. Juurinen: Molekyylimekaniikan vuorovaikutusmallit (2009)
 ...
