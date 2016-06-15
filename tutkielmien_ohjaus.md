@@ -3,7 +3,6 @@
 - I. Juurinen
 - S. Lehtola
 - osaohjaajana: K. Nygård (2006), P. Zaleski-Ejgierd (2009), A. Sakko (2011), E. Holmström (2012), K. Ruotsalainen (2016)
-(in progress)
 
 # Pro gradu -ohjaus
 - A. Musazay (2015)
