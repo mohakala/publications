@@ -6,11 +6,13 @@
 
 # Pro gradu -ohjaus
 - A. Musazay (2015)
-- J. Koskelo (2012)
-- I. Juurinen (2009)
-- S. Lehtola (2008)
+- J. Koskelo: Compton-sironnan mallintaminen ioninesteistä (2012)
+- I. Juurinen: Water-ethanol mixtures by molecular dynamics and x-ray Compton scattering (2009)
+- S. Lehtola: A computational study of Compton profiles of water-methanol solutions (2008)
 
-# Kandidaatin tutkielma
+# Kandidaatin tutkielmien ohjaus
+- J. Järvi (2016) (tarkastaja)
+- A. Liski: Luuntiheyden mittausmenetelmät (2016)
 - T. Vuoriheimo: Funktionaaliset monikerroskiderakenteet (2015)
 - D. Veira Canle: Study of the physical properties of materials based on perovskites and possible applications in solar cell technology (2014, kandityötä vastaava erikoistyö)
 - J. Koskelo: Amorfiset puolijohteet (2011)
