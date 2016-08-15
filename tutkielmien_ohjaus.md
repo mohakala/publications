@@ -5,7 +5,7 @@
 - osaohjaajana: K. Nygård (2006), P. Zaleski-Ejgierd (2009), A. Sakko (2011), E. Holmström (2012), K. Ruotsalainen (2016)
 
 # Pro gradu -ohjaus
-- A. Musazay (2015)
+- A. Musazay: Experimental Characterization of Organohalide Lead Perovskites for Photovoltaic Applications (2015) http://hdl.handle.net/10138/155135
 - J. Koskelo: Compton-sironnan mallintaminen ioninesteistä (2012)
 - I. Juurinen: Water-ethanol mixtures by molecular dynamics and x-ray Compton scattering (2009)
 - S. Lehtola: A computational study of Compton profiles of water-methanol solutions (2008)
