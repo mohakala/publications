@@ -11,7 +11,7 @@
 - S. Lehtola: A computational study of Compton profiles of water-methanol solutions (2008)
 
 # Kandidaatin tutkielmien ohjaus
-- J. Järvi (2016) (tarkastaja)
+- J. Järvi: Dipole dynamics and electron transport in perovskite solar cells (2016) (tarkastaja)
 - A. Liski: Luuntiheyden mittausmenetelmät (2016)
 - T. Vuoriheimo: Funktionaaliset monikerroskiderakenteet (2015)
 - D. Veira Canle: Study of the physical properties of materials based on perovskites and possible applications in solar cell technology (2014, kandityötä vastaava erikoistyö)
