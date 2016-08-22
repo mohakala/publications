@@ -29,4 +29,8 @@
 # Kesätyöprojektit
 T. Liimatainen: Calculating Compton profile related integral with Fortran 90 (2003), J. Koskelo: Kemiallisen ympäristön vaikutus hiilen K-reunan XA- ja XRS-spektreihin (2011), I. Juurinen, T. S. Hänninen, P. Korpela, M. Rasola, J. Freixanet Viejo ja useita muita.   
 
+# Väitöstutkimusten esitarkastajana toimiminen
+- A. Ojanperä, Aalto-yliopisto
+- M. Rummukainen, Teknillinen korkeakoulu
+
 
