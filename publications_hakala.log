@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=latex 2016.9.12)  12 SEP 2016 15:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=latex 2016.9.12)  12 SEP 2016 15:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -202,7 +202,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 50--51
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 83--84
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
 
  []
 
@@ -210,25 +210,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 83--84
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 187.
+(Font)              <12> on input line 189.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 187.
+(Font)              <8> on input line 189.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 187.
+(Font)              <6> on input line 189.
 
-Overfull \hbox (0.75864pt too wide) in paragraph at lines 187--189
+Overfull \hbox (0.75864pt too wide) in paragraph at lines 189--191
 []\OT1/cmr/bx/n/12 ** Gold as in-ter-molec-u-lar glue: a pre-dicted pla-nar tri
 -au-ro-tri-azine, C$[]$Au$[]$N$[]$,
  []
 
 [2]
-Overfull \hbox (4.94826pt too wide) in paragraph at lines 225--228
+Overfull \hbox (4.94826pt too wide) in paragraph at lines 227--230
 \OT1/cmr/m/n/12 M. Hakala, K. Nyg^^Ward, J. Vaara, M. Itou, Y. Saku-rai and K. 
 H^^?am^^?al^^?ainen, J. Chem. Phys.
  []
 
 [3]
-Overfull \hbox (1.66931pt too wide) in paragraph at lines 252--253
+Overfull \hbox (1.66931pt too wide) in paragraph at lines 254--255
 []\OT1/cmr/m/it/12 Experimental and com-pu-ta-tional study of crys-talline form
 ic acid com-posed of the higher-
  []
@@ -239,21 +239,21 @@ Missing character: There is no ¤ in font cmr12!
 Missing character: There is no Ã in font cmr12!
 Missing character: There is no ¼ in font cmr12!
  [6] [7] [8]
-Overfull \hbox (4.4288pt too wide) in paragraph at lines 622--624
+Overfull \hbox (4.4288pt too wide) in paragraph at lines 624--626
 \OT1/cmr/m/n/12 7th In-ter-na-tional Dis-cus-sion Meet-ing on Re-lax-ations in 
 Com-plex Sys-tems, 21.-26.7.2013,
  []
 
 [9]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 643.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 645.
  [10]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 643.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 645.
  (./publications_hakala.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 643.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 643.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 645.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 645.
 Package rerunfilecheck Info: File `publications_hakala.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 643.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 645.
  ) 
 Here is how much of TeX's memory you used:
  4294 strings out of 494954
@@ -264,4 +264,4 @@ Here is how much of TeX's memory you used:
  14 hyphenation exceptions out of 8191
  29i,4n,24p,382b,411s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on publications_hakala.dvi (10 pages, 48048 bytes).
+Output written on publications_hakala.dvi (10 pages, 48032 bytes).
