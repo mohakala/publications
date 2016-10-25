@@ -1,5 +1,5 @@
 # Väitöstutkimusten ohjaus
-- J. Koskelo (ongoing)
+- J. Koskelo (ongoing): Spectroscopic properties of materials using electronic-structure calculations (2016)
 - I. Juurinen: Inelastic x-ray scattering perspective on aqueous solutions (2014) http://urn.fi/URN:ISBN:978-952-10-8964-0
 - S. Lehtola: Computational modeling of the electron momentum density (2013) http://urn.fi/URN:ISBN:978-952-10-8091-3
 - osaohjaajana: K. Nygård (2006), P. Zaleski-Ejgierd (2009), A. Sakko (2011), E. Holmström (2012), K. Ruotsalainen (2016)
