@@ -6,4 +6,4 @@
 
 * DFT simulations for hydrogen evolution reaction on MoS2 and reaction descriptors, EU project meeting, London, October 2016
 
-* Electronic structure and X-raystudies at University of Helsinki, Computational Chemistry Group, Department of Chemistry, Aalto University, 8.9.2016
+* Electronic structure and X-ray studies at University of Helsinki, Computational Chemistry Group, Department of Chemistry, Aalto University, 8.9.2016
