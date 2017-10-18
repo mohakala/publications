@@ -1,5 +1,7 @@
 # Talks 2017
 
+* Machine Learning in Modern Chemistry and Materials Science, Invited guest lecture in the course CS-E3210 - Machine Learning: Basic Principles, Department of Computer Science, Aalto 15.9.2017
+
 * Doping of MoS2, Computational Chemistry Group meeting, Aalto 2.10.2017 
 
 * Role of simulations and data in materials science, Case: Design efficient electrocatalysts for hydrogen production, Department of Computer Science, Aalto 15.9.2017
