@@ -1,5 +1,9 @@
 # Talks 2017
 
+* DFT simulations for hydrogen evolution reaction (HER) on MoS2 and Ni2P, EU project meeting, Brussels, November 2016
+
+* Machine learning and applications in materials science, Invited lectures, CMMP Winter School, Tampere University of Technology 27.-28.11.2017 (http://www.tut.fi/mocca/)
+
 * Machine Learning in Modern Chemistry and Materials Science, Invited guest lecture in the course CS-E3210 - Machine Learning: Basic Principles, Department of Computer Science, Aalto 15.9.2017
 
 * Doping of MoS2, Computational Chemistry Group meeting, Aalto 2.10.2017 
