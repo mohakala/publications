@@ -18,13 +18,14 @@
 - A. Lahtinen: Kvasikiteet (2013) (tarkastaja)
 - J. Koskelo: Amorfiset puolijohteet (2011)
 - I. Juurinen: Molekyylimekaniikan vuorovaikutusmallit (2009)
-...
+
++ others
 
 # Syventävien opintojen laboratoriotyöt
 - A. Musazay: X-ray photoelectron spectroscopy of argon bombarded self-assembled monolayers of thiols on gold (2014)
 - J. Koskelo: Ioninesteiden Compton-profiilien laskeminen CP2K-koodilla (2012)
 - E. Holmström: Electronic density of states of amrphous silicon clusters embedded in crystalline silicon (2008)
-- T. PYlkkänen: Compton-profiilin laskenta vesidimeereille eri menetelmillä (2005)
+- T. Pylkkänen: Compton-profiilin laskenta vesidimeereille eri menetelmillä (2005)
 ...
 
 # Kesätyöprojektit
